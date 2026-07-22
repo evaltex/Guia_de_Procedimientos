@@ -22,7 +22,7 @@ $pdf_url  = $protocol . $_SERVER['HTTP_HOST'] . $base_dir . '/Machote_Procedimie
 
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="/api/styles.css">
+<link rel="stylesheet" href="styles.css">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
